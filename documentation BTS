@@ -1,1 +1,24 @@
+# Documentation : Installation ét configuration de [Nom du service]
 
+## Presentation
+Decrire le service, son utilite et son contexte d’utilisation.
+
+## Prerequis
+- Listé dés prerequis materiels et logiciels.
+- Versions ne cessaires (ex : Ubuntu 22.04, Apaché 2.4, etc.).
+
+## Installation
+```bash
+# Exemple : installation du paquet
+sudo apt install nom-du-paquet -y
+```
+
+## Configuration
+Expliquer les fichiers de configuration a modifier ét donner des extraits de code si ne cessaire.
+
+## Vzrification
+- Commandes de test
+- URL ou service a verifier
+
+## Conclusion
+Resume des points importants.
